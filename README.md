@@ -3,29 +3,23 @@
 <div align="center">
   <h1 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">✨ Welcome to My Digital Garden ✨</h1>
   
-  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-    <a href="https://www.youtube.com/c/YauhenKavalchuk?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-    <a href="https://www.youtube.com/c/YauhenKavalchuk">
-      <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-    </a> 
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0; flex-wrap: wrap;">
     <a href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk" style="box-shadow: 0 0 8px rgba(124,0,124,0.5); border-radius: 5px;"/>
     </a>
     <a href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
-      <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/>
+      <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk" style="box-shadow: 0 0 8px rgba(85,150,12,0.5); border-radius: 5px;"/>
     </a>
     <a href="https://github.com/YauhenKavalchuk">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" style="box-shadow: 0 0 8px rgba(35,106,211,0.5); border-radius: 5px;"/>
     </a>
+    <img alt="Profile views" title="Profile Views" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=for-the-badge" style="box-shadow: 0 0 8px rgba(255,0,0,0.5); border-radius: 5px;"/>
   </div>
 </div>
 
 <div style="background: linear-gradient(45deg, #f3f4f6, #ffffff); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(0,0,0,0.1); margin: 20px 0;">
-  <h2 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">👋 Hi, I'm Salman — aka <a href="https://www.youtube.com/@FilmyDev" style="color: #FF0000; text-decoration: none; transition: all 0.3s ease;">FilmyDev 🎬</a></h2>
-  <img align="right" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Profile views" />
-
+  <h2 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">👋 Hi, I'm Salman — aka FilmyDev 🎬</h2>
+  
   <h3 style="color: #2d3436; font-family: 'Segoe UI', sans-serif;">🎨 Software Engineer, Content Creator & Cinematic Filmmaker</h3>
 
   <ul style="list-style-type: none; padding-left: 0;">
@@ -46,9 +40,6 @@
   <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <a href="https://www.instagram.com/your_instagram_handle" style="text-decoration: none;">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.youtube.com/@FilmyDev" style="text-decoration: none;">
-      <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/your_linkedin_handle" style="text-decoration: none;">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
