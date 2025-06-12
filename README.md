@@ -1,4 +1,4 @@
-<img src="C:\Users\my\Desktop\YauhenKavalchuk-master\assets\desktop-wallpaper-christopher-nolan-quotes-78.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
+<img src="assets/desktop-wallpaper-christopher-nolan-quotes-78.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
 
 <div align="center">
   <h1 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">✨ Welcome to My Digital Garden ✨</h1>
@@ -45,16 +45,22 @@
 
 <div style="background: linear-gradient(45deg, #f3f4f6, #ffffff); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(0,0,0,0.1); margin: 20px 0;">
   <h3 style="color: #2d3436; font-family: 'Segoe UI', sans-serif;">💻 Tech Stack I Use</h3>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  
+  <h4 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; margin-top: 20px;">📚 Programming Languages</h4>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
     <img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
     <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="supabase" src="https://img.shields.io/badge/supabase-3ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
     <img alt="c++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="dart" src="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
     <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  </div>
+
+  <h4 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; margin-top: 20px;">☁️ Platforms & Services</h4>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <img alt="supabase" src="https://img.shields.io/badge/supabase-3ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
     <img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
     <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
