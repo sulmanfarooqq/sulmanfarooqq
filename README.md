@@ -86,25 +86,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td>🎥 Popular Videos:</td>
-    <td>🎬 Latest Videos:</td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <!-- YOUTUBEPOPULAR:START --><tr> <td> <a href="https://www.youtube.com/watch?v=VMjRWJWWDuo"> <img width="139px" src="https://i.ytimg.com/vi/VMjRWJWWDuo/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=VMjRWJWWDuo">Front-end 2023 Roadmap &amp; Trends | Что учить в 2023?</a> <br/>Dec 13, 2022 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=YDKFWhBkC8c"> <img width="139px" src="https://i.ytimg.com/vi/YDKFWhBkC8c/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=YDKFWhBkC8c">Front-end 2022 Roadmap &amp; Trends | Что учить в 2022?</a> <br/>Dec 14, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY"> <img width="139px" src="https://i.ytimg.com/vi/XXlw7TUxRVY/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY">CSS Flexbox. Полный курс</a> <br/>Sep 23, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM"> <img width="139px" src="https://i.ytimg.com/vi/1X8FNuy32ZM/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM">Основы CSS3. Полный курс</a> <br/>Sep 16, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=G7hLwudGWL4"> <img width="139px" src="https://i.ytimg.com/vi/G7hLwudGWL4/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=G7hLwudGWL4">#2 Front-end. Вопросы на собеседовании</a> <br/>May 11, 2021 </td> </tr><!-- YOUTUBEPOPULAR:END -->
-      </table>
-    </td>
-    <td>
-      <table>
-        <!-- YOUTUBELATEST:START --><tr> <td> <a href="https://www.youtube.com/watch?v=1kzbNflP_YA"> <img width="139px" src="https://i.ytimg.com/vi/1kzbNflP_YA/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=1kzbNflP_YA">#60 Front-end. Вопросы на собеседовании</a> <br/>Jun 10, 2025 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=OM-UNgMvvDk"> <img width="139px" src="https://i.ytimg.com/vi/OM-UNgMvvDk/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=OM-UNgMvvDk">React мемоизация: memo, useMemo, useCallback</a> <br/>May 13, 2025 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=whHaevWQ8_Q"> <img width="139px" src="https://i.ytimg.com/vi/whHaevWQ8_Q/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=whHaevWQ8_Q">Docker. Полный курс</a> <br/>Jan 14, 2025 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=7DmZ2z2DQFU"> <img width="139px" src="https://i.ytimg.com/vi/7DmZ2z2DQFU/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=7DmZ2z2DQFU">Front-end 2025 Roadmap &amp; Trends | Что учить в 2025?</a> <br/>Dec 10, 2024 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=Ff_IZrs4GcY"> <img width="139px" src="https://i.ytimg.com/vi/Ff_IZrs4GcY/mqdefault.jpg"> </a> </td> <td width="228px"> <a href="https://www.youtube.com/watch?v=Ff_IZrs4GcY">Просто о CRP &lpar;Critical Rendering Path&rpar;</a> <br/>Oct 15, 2024 </td> </tr><!-- YOUTUBELATEST:END -->
-      </table>
-    </td>
-  </tr>
-</table>
-
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
 [linkedin]: https://linkedin.com/in/YauhenKavalchuk
