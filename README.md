@@ -1,4 +1,4 @@
-<img src="assets/desktop-wallpaper-christopher-nolan-quotes-78.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
+<img src="assets/desktop-wallpaper-christopher-nolan-quotes-88.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
 
 <div align="center">
   <h1 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 2px 2px 8px rgba(0,0,0,0.2);">✨ Welcome to My Profile ✨</h1>
