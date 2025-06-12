@@ -12,6 +12,7 @@
     </a>
     <img alt="Profile views" title="Profile Views" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=for-the-badge" style="box-shadow: 0 0 12px rgba(255,0,0,0.7); border-radius: 5px;"/>
   </div>
+  <p style="font-size: 1.2em; color: #555; text-shadow: 1px 1px 2px rgba(0,0,0,0.05); margin-top: 20px;"><strong>Engineering dreams, filming reality</strong></p>
 </div>
 
 <div style="background: linear-gradient(45deg, #f3f4f6, #ffffff); padding: 20px; border-radius: 15px; box-shadow: 0 0 30px rgba(0,0,0,0.2); margin: 20px 0;">
