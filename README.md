@@ -1,4 +1,4 @@
-<img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview_new.png" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
+<img src="C:\Users\my\Desktop\YauhenKavalchuk-master\assets\desktop-wallpaper-christopher-nolan-quotes-78.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);">
 
 <div align="center">
   <h1 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">✨ Welcome to My Digital Garden ✨</h1>
@@ -17,18 +17,17 @@
 <div style="background: linear-gradient(45deg, #f3f4f6, #ffffff); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(0,0,0,0.1); margin: 20px 0;">
   <h2 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">👋 Hi, I'm Salman — aka FilmyDev 🎬</h2>
   
-  <h3 style="color: #2d3436; font-family: 'Segoe UI', sans-serif;">🎨 Software Engineer, Content Creator & Cinematic Filmmaker</h3>
+  <h3 style="color: #2d3436; font-family: 'Segoe UI', sans-serif;">🚀 Aspiring Software Engineer | Passionate Photographer & Filmmaker</h3>
 
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin: 10px 0;">📍 Currently living and creating from my hostel room</li>
-    <li style="margin: 10px 0;">🎥 Part-time filmmaker — I love old aesthetics, moody object photography & vintage architecture</li>
-    <li style="margin: 10px 0;">📸 Started a <strong>365-day Instagram photo challenge</strong> for 2025 – 1 photo a day, every day</li>
-    <li style="margin: 10px 0;">👨‍💻 Backend Developer (Node.js, Supabase), also working in Flutter & C++</li>
-    <li style="margin: 10px 0;">🧠 Passionate about AI-free storytelling & real human emotion</li>
-    <li style="margin: 10px 0;">🛠️ Building apps for students, creators & indie developers</li>
-    <li style="margin: 10px 0;">🎬 Inspired by creators like BB Ki Vines, Irfan Junejo & cinematic indie artists</li>
-    <li style="margin: 10px 0;">🔧 I use low-end hardware, proving creativity > gear</li>
-    <li style="margin: 10px 0;">🌙 I often write and edit at night — Jarvis mode activated 😄</li>
+    <li style="margin: 10px 0;">👨‍🎓 Pursuing a career in Software Engineering with a strong focus on building innovative solutions.</li>
+    <li style="margin: 10px 0;">📸 Hobbyist Photographer & Filmmaker — exploring old aesthetics, moody object photography & vintage architecture.</li>
+    <li style="margin: 10px 0;">📈 Constantly learning and building projects in Backend Development (Node.js, Supabase), Flutter & C++.</li>
+    <li style="margin: 10px 0;">💡 Passionate about crafting efficient, clean code and problem-solving through technology.</li>
+    <li style="margin: 10px 0;">🎯 Focused on developing practical applications for students, creators & indie developers.</li>
+    <li style="margin: 10px 0;">💻 I believe in the power of creativity over expensive gear and optimize for impactful results.</li>
+    <li style="margin: 10px 0;">🌙 Often found coding and refining projects late at night — in 'deep work' mode! 😄</li>
   </ul>
 </div>
 
@@ -54,6 +53,17 @@
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="dart" src="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
+    <img alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+    <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
+    <img alt="render" src="https://img.shields.io/badge/Render-46E3B7.svg?&style=for-the-badge&logo=render&logoColor=white" />
+    <img alt="cloudinary" src="https://img.shields.io/badge/Cloudinary-3448C3.svg?&style=for-the-badge&logo=cloudinary&logoColor=white" />
+    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img alt="botpress" src="https://img.shields.io/badge/Botpress-5C068A.svg?&style=for-the-badge&logo=botpress&logoColor=white" />
+    <img alt="azure" src="https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </div>
 </div>
 
