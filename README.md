@@ -10,9 +10,6 @@
     <a href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
       <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk" style="box-shadow: 0 0 8px rgba(85,150,12,0.5); border-radius: 5px;"/>
     </a>
-    <a href="https://github.com/YauhenKavalchuk">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" style="box-shadow: 0 0 8px rgba(35,106,211,0.5); border-radius: 5px;"/>
-    </a>
     <img alt="Profile views" title="Profile Views" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=for-the-badge" style="box-shadow: 0 0 8px rgba(255,0,0,0.5); border-radius: 5px;"/>
   </div>
 </div>
