@@ -21,7 +21,7 @@
   <h3 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 4px rgba(0,0,0,0.15);">🚀 Aspiring Software Engineer | Passionate Photographer </h3>
 
   <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin: 10px 0;">👨‍🎓 Pursuing a career in Software Engineering with a strong focus on building innovative solutions.</li>
+    <li style="margin: 10px 0;">👨‍🎓 Thess Pursuing a career in Software Engineering with a strong focus on building innovative solutions.</li>
     <li style="margin: 10px 0;">📸 Hobbyist Photographer & Filmmaker — exploring old aesthetics, moody object photography & vintage architecture.</li>
     <li style="margin: 10px 0;">📈 Constantly learning and building projects in Backend Development (Node.js, Supabase), Flutter & C++.</li>
     <li style="margin: 10px 0;">💡 Passionate about crafting efficient, clean code and problem-solving through technology.</li>
