@@ -98,5 +98,5 @@
   </table>
 </div>
 
-[instagram]: https://www.instagram.com/your_instagram_handle
-[linkedin]: https://www.linkedin.com/in/your_linkedin_handle
+[instagram]: https://www.instagram.com/sulmanfarooqq
+
