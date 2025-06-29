@@ -16,19 +16,26 @@
 </div>
 
 <div style="background: linear-gradient(45deg, #f3f4f6, #ffffff); padding: 20px; border-radius: 15px; box-shadow: 0 0 30px rgba(0,0,0,0.2); margin: 20px 0;">
-  <h2 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 6px rgba(0,0,0,0.2);">👋 Hi, I'm Sulman </h2>
-  
-  <h3 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 4px rgba(0,0,0,0.15);">🚀 Aspiring Software Engineer | Passionate Photographer </h3>
-
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin: 10px 0;">👨‍🎓 Pursuing a career in Software Engineering with a strong focus on building innovative solutions.</li>
-    <li style="margin: 10px 0;">📸 Hobbyist Photographer & Filmmaker — exploring old aesthetics, moody object photography & vintage architecture.</li>
-    <li style="margin: 10px 0;">📈 Constantly learning and building projects in Backend Development (Node.js, Supabase), Flutter & C++.</li>
-    <li style="margin: 10px 0;">💡 Passionate about crafting efficient, clean code and problem-solving through technology.</li>
-    <li style="margin: 10px 0;">🎯 Focused on developing practical applications for students, creators & indie developers.</li>
-    <li style="margin: 10px 0;">💻 I believe in the power of creativity over expensive gear and optimize for impactful results.</li>
-    <li style="margin: 10px 0;">🌙 Often found coding and refining projects late at night — in 'deep work' mode! 😄</li>
+  <h2 style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 6px rgba(0,0,0,0.2);">👋 About Me</h2>
+  <p style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 4px rgba(0,0,0,0.15); font-size: 1.1em;">
+    I’m a 2nd-year Software Engineering student with a growing passion for backend development, APIs, and automation. I’ve been actively building real-world projects using Python for web scraping and automation, and Flutter for cross-platform app development.
+  </p>
+  <p style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 4px rgba(0,0,0,0.15); font-size: 1.1em;">
+    I enjoy exploring how things work behind the scenes — from building APIs to integrating databases and automating workflows. My journey has already included developing small-scale web tools, mobile apps, and bots that solve everyday problems.
+  </p>
+  <p style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 4px rgba(0,0,0,0.15); font-size: 1.1em;">
+    🚀 Areas I’m currently exploring:
+  </p>
+  <ul style="list-style-type: disc; padding-left: 20px; color: #2d3436; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">
+    <li>API Development (RESTful services, JSON handling)</li>
+    <li>Web Scraping & Automation (Python, BeautifulSoup, Selenium)</li>
+    <li>App Development with Flutter (Web & Mobile)</li>
+    <li>Firebase & Supabase integration</li>
+    <li>Clean Code Practices & Version Control (Git)</li>
   </ul>
+  <p style="color: #2d3436; font-family: 'Segoe UI', sans-serif; text-shadow: 1px 1px 4px rgba(0,0,0,0.15); font-size: 1.1em;">
+    📌 I'm actively seeking internship opportunities or project collaborations that let me grow my backend and development skills in a real-world environment.
+  </p>
 </div>
 
 <div style="background: linear-gradient(45deg, #f3f4f6, #ffffff); padding: 20px; border-radius: 15px; box-shadow: 0 0 30px rgba(0,0,0,0.2); margin: 20px 0;">
