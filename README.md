@@ -73,7 +73,7 @@ I'm a second-year Software Engineering student with a passion for developing eff
 ---
 
 <p align="center">
-  <i>“Write code as if the next person to maintain it is a psychopath who knows where you live and this is new commit .”</i>
+  <i>“Write code as if the next person to maintain it is a psychopath who knows where you live.”</i>
 </p>
 
 ---
