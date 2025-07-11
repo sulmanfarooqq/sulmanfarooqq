@@ -65,7 +65,7 @@ I'm a second-year Software Engineering student with a passion for developing eff
 ---
 
 ### 🚧 Currently Working On
-- Flutter Web Apps for Student Complaints & Feedback
+- Automation for a youtube,Instagram,X (currently twitter)
 - Python Bots for Automation Tasks (e.g. Data Collection)
 - REST API Projects with Firebase & Supabase
 - Data Structures & Algorithms (DSA) Practice
