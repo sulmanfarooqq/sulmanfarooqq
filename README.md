@@ -1,79 +1,95 @@
 <div align="center">
-  <img src="assets/desktop-wallpaper-christopher-nolan-quotes-88.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2); max-width: 100%;" />
-  <h1 style="font-family: 'Segoe UI', sans-serif; color: #2d3436; text-shadow: 2px 2px 8px rgba(0,0,0,0.2); margin-top: 20px;">
-    👋 Welcome to My Profile
-  </h1>
-  <p style="font-size: 1.2em; color: #636e72; font-family: 'Segoe UI', sans-serif; max-width: 700px;">
-    2nd-Year Software Engineering Student | Backend Developer | Python Automation & Web Scraping | Flutter (Web & Mobile) | API & Chatbot Developer
-  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:ff007c&height=220&section=header&text=Solo%20Leveling%20System&fontSize=50&fontAlignY=40&desc=Player:%20Sulman%20Farooq%20|%20Class:%20Software%20Engineer&descAlignY=65&descSize=20&fontColor=ffffff" alt="Solo Leveling Header" width="100%" />
+
+  <br />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&pause=1000&color=BD5EFF&center=true&vCenter=true&width=500&lines=System+Alert:+Player+Awakened;Loading+Backend+Skills...;Initializing+Python+Automation...;Flutter+Framework+Detected." alt="Typing SVG" />
+  </a>
+
 </div>
 
----
+<br />
 
-### 🧠 About Me
+<table align="center" width="100%" style="border-collapse: collapse;">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center" style="color: #bd5eff;">📊 Player Statistics</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bd5eff&icon_color=ff007c&text_color=ffffff" width="100%" />
+      </div>
+    </td>
 
-I'm a second-year Software Engineering student with a passion for developing efficient backend systems and user-friendly web/mobile apps. I specialize in Python automation, API integrations, and cross-platform development with Flutter.
+    <td width="50%" valign="top">
+      <h3 align="center" style="color: #bd5eff;">⚔️ Skill Tracker</h3>
+      <div align="center">
+        <code>
+        [Python Automation] <br/>
+        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 90%
+        <br/><br/>
+        [Flutter / Dart] <br/>
+        ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 80%
+        <br/><br/>
+        [Backend / API] <br/>
+        ▓▓▓▓▓▓▓▓▓▓░░░░░ 65%
+        <br/><br/>
+        [Data Structures] <br/>
+        ▓▓▓▓▓▓▓▓░░░░░░░ 50%
+        </code>
+      </div>
+    </td>
+  </tr>
 
-```markdown
-💼 Tech Stack:
-- Flutter (Dart) — Web & Mobile Development
-- Python — Automation, Web Scraping, Chatbots
-- C++ / C# — Problem Solving, Desktop Applications
-- Firebase / Supabase — Backend as a Service
-- HTML, CSS, JavaScript — Front-End Essentials
-- Git & GitHub — Version Control
-```
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center" style="color: #bd5eff;">🔮 Mana Affinity (Languages)</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulmanFarooqq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bd5eff&text_color=ffffff" width="100%" />
+      </div>
+    </td>
 
-🔍 Currently enhancing my backend logic, refining API development, and solving real-world automation tasks.
+    <td width="50%" valign="top">
+      <h3 align="center" style="color: #bd5eff;">🔥 Login Streak</h3>
+      <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulmanFarooqq&theme=tokyonight&hide_border=true&background=0d1117&ring=bd5eff&fire=ff007c&currStreakLabel=bd5eff" width="100%" />
+      </div>
+    </td>
+  </tr>
 
----
+</table>
 
-### 🔢 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Sulman's GitHub stats" />
-</p>
+<div align="center">
+  <h3 style="color: #bd5eff;">🎒 Inventory (Tech Stack)</h3>
+  
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,supabase,c,cpp,html,css,js,git,github,vscode,postman&perline=7&theme=dark" />
+</div>
 
----
+<br/>
 
-### 📊 Most Used Languages
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <h3 style="color: #bd5eff;">🚧 Active Quests (Working On)</h3>
+      <ul>
+        <li>🤖 Building Python Bots for Data Collection</li>
+        <li>📱 Cross-platform App Dev (Flutter)</li>
+        <li>🔌 REST API Integrations (Firebase/Supabase)</li>
+        <li>🧠 Grinding DSA Levels</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 style="color: #bd5eff;">📜 System Note</h3>
+      <blockquote>
+        <i>“Write code as if the next person to maintain it is a psychopath who knows where you live.”</i>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulmanFarooqq&layout=compact&theme=algolia" alt="Top languages" />
-</p>
-
----
-
-### 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulmanFarooqq&theme=algolia" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧰 Tools I Use
-
-```markdown
-- VS Code & Dart DevTools
-- GitHub & Postman
-- Python Libraries: Selenium, BeautifulSoup, Pandas
-- Git CLI & GitHub Desktop
-- Firebase Console & Supabase Studio
-```
-
----
-
-### 🚧 Currently Working On
-- Automation for a youtube,Instagram,X (currently twitter)
-- Python Bots for Automation Tasks (e.g. Data Collection)
-- REST API Projects with Firebase & Supabase
-- Data Structures & Algorithms (DSA) Practice
-
----
-
-<p align="center">
-  <i>“Write code as if the next person to maintain it is a psychopath who knows where you live.”</i>
-</p>
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:ff007c&height=60&section=footer&width=100%" />
+</div>
