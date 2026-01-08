@@ -79,103 +79,152 @@ I'm a second-year Software Engineering student with a passion for developing eff
 --- -->
 
 <!-- /////////// -->
-<div align="center">
+# Sulman Farooq
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&text=Sulman%20Farooq&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=.NET%20Backend%20Developer%20%7C%20AI%20Automation%20Engineer&descAlignY=55"/>
+**`.NET Backend Developer | AI Agent & Automation Engineer | Open-Source Contributor`**
 
-<!-- Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=C084FC&center=true&width=850&lines=ASP.NET+Core+%26+C%23+Backend+Development;Python+FastAPI+%26+Flask+APIs;AI+Agents+%26+Automation+Workflows;Open-Source+Contributor" />
-
-</div>
-
----
-
-## 👋 About Me
-
-I am a **Junior .NET Backend Developer** and **Software Engineering student (CGPA 3.7/4.0)** with hands-on experience building and deploying **backend systems, REST APIs, and AI-powered automation**.
-
-I focus on **clean architecture**, **scalable backend design**, and **shipping real, deployed systems** rather than theory-heavy projects.
-
-📍 Mirpur, Azad Kashmir, Pakistan  
-🌍 Open to **Remote Internships & Junior Backend Roles**
-
----
-
-## 🛠 Core Technologies
-
-**Backend Development**
-- **ASP.NET Core & C#** — RESTful APIs (actively building production projects)
-- **Python** — FastAPI & Flask (deployed on Render & Railway)
-
-**AI & Automation**
-- AI agents using **Gemini API**
-- Workflow automation with **n8n**
-- Custom CLI tools for developer productivity
-
-**Databases**
-- PostgreSQL (Supabase)
-- MySQL
-
-**Tools**
-- Git & GitHub (active open-source contributions)
-- Docker (learning & experimentation)
-- Postman
-
----
-
-## 📊 GitHub Activity & Performance
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SulmanFarooqq&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SulmanFarooqq&bg_color=1a1625&color=c084fc&line=e879f9&point=a855f7&area=true&hide_border=true" width="95%"/>
+<div align="left">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sulmanfarooqq-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sulmanfarooqq)
+[![Email](https://img.shields.io/badge/Email-sulmanfarooq27%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sulmanfarooq27@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Mirpur%2C%20AK%2C%20Pakistan-28a745?style=flat&logo=google-maps)](https://maps.google.com)
 
 </div>
 
 ---
 
-## 🧩 Proof of Work
+## About
 
-- ✅ Multiple **live backend APIs** deployed on cloud platforms  
-- ✅ **Open-source contributor** to Mistral CLI & automation tools  
-- ✅ AI-driven workflows automating development and operational tasks  
-- ✅ Consistent GitHub activity with real-world projects  
+Junior .NET Backend Developer and Software Engineering student at **Mirpur University of Science & Technology (MUST)** with a **CGPA of 3.7/4.0**. 
+
+I specialize in building and deploying backend systems, REST APIs, and AI-powered automation solutions. My focus is on writing clean, scalable code and shipping real, production-ready projects.
+
+**Currently seeking:** Remote internships and junior positions in .NET Backend Development, Software Engineering, and AI Automation.
 
 ---
 
-## 🏆 Certifications & Learning
+## Technical Skills
 
-- **AWS – Solutions Architecture Job Simulation**
-- **JPMorgan Chase – Software Engineering Job Simulation**
+### Backend Development
+- **ASP.NET Core & C#** — RESTful API development, actively building production projects
+- **Python** — FastAPI and Flask APIs deployed on Render and Railway
+- **Databases** — PostgreSQL with Supabase
+
+### AI & Automation
+- **AI Agents** — Automation workflows using Gemini API
+- **Workflow Automation** — n8n platform integration
+- **CLI Tools** — Custom command-line tools and automation scripts
+
+### Tools & Platforms
+- **Version Control** — Git, GitHub (daily active commits)
+- **Cloud Deployment** — Render, Railway
+- **API Testing** — Postman
+- **Database Management** — Supabase Studio
+
+---
+
+## Experience
+
+### Open-Source Contributor | Mistral AI
+**November 2025 - Present** · *London Area, United Kingdom (Remote)*
+
+- Contributing to open-source Mistral CLI and automation-related projects
+- Maintaining active GitHub repositories with regular commits and code improvements
+- Collaborating through issues, pull requests, and code reviews
+- Resolving technical issues and contributing to project documentation
+
+---
+
+## Certifications
+
+- **AWS Solutions Architecture Job Simulation**
+- **JPMorgan Chase Software Engineering Job Simulation**
 - **Introduction to Artificial Intelligence (AI)**
 
 ---
 
-## 🌐 Connect With Me
+## GitHub Statistics
 
-<div align="center">
+<div align="left">
 
-<a href="https://github.com/SulmanFarooqq">
-<img src="https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=333&text_color=333&icon_color=0366d6&bg_color=ffffff"/>
 
-<a href="https://www.linkedin.com/in/sulmanfarooqq">
-<img src="https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulmanFarooqq&layout=compact&theme=default&hide_border=true&title_color=333&text_color=333&bg_color=ffffff&langs_count=6"/>
 
-<a href="mailto:sulmanfarooq27@gmail.com">
-<img src="https://img.shields.io/badge/Email-e879f9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
+
+<div align="left">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SulmanFarooqq&theme=default&hide_border=true&background=ffffff&ring=0366d6&fire=0366d6&currStreakLabel=333&sideLabels=333&currStreakNum=0366d6&dates=666&sideNums=333"/>
 
 </div>
 
 ---
 
-<!-- Snake -->
+## Current Focus
+
+```
+→ Building production-grade .NET Core backend APIs
+→ Contributing to open-source projects (Mistral AI)
+→ Developing AI automation workflows and agents
+→ Deploying and maintaining cloud-based backend systems
+→ Active daily GitHub contributions and code reviews
+```
+
+---
+
+## Projects & Contributions
+
+### Deployed Backend Systems
+- Multiple live REST APIs built with ASP.NET Core and Python frameworks
+- Cloud deployments on Render and Railway platforms
+- PostgreSQL database integration with Supabase
+
+### AI Automation
+- AI-driven workflows automating development and operational tasks
+- Custom CLI tools for automation and productivity
+- Integration with Gemini API for intelligent automation
+
+### Open Source
+- Active contributions to Mistral CLI project
+- Regular code reviews and issue resolution
+- Collaborative development through pull requests
+
+---
+
+## Education
+
+**Mirpur University of Science & Technology (MUST)**  
+*Bachelor of Science in Software Engineering* · 2023 - 2027  
+CGPA: **3.7/4.0**
+
+---
+
+## Development Philosophy
+
+> *"I value shipping real systems over theory and continuously improving through hands-on development."*
+
+I believe in:
+- Writing clean, maintainable, and scalable code
+- Deploying real, production-ready systems
+- Contributing to open-source communities
+- Continuous learning through practical application
+- Consistent daily development and contributions
+
+---
+
+## Contact
+
+- **Email:** [sulmanfarooq27@gmail.com](mailto:sulmanfarooq27@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sulmanfarooqq](https://www.linkedin.com/in/sulmanfarooqq)
+- **Phone:** +92 342 5034517
+
+---
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/SulmanFarooqq/SulmanFarooqq/output/github-contribution-grid-snake-dark.svg" />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=SulmanFarooqq&color=0366d6&style=flat)
+
+*Open to remote opportunities in Backend Development and AI Automation*
+
 </div>
