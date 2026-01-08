@@ -79,59 +79,31 @@ I'm a second-year Software Engineering student with a passion for developing eff
 --- -->
 
 <!-- /////////// -->
+
+---
+
+## Certifications
+- AWS Solutions Architecture (Simulation)
+- JPMorgan Chase Software Engineering (Simulation)
+- Introduction to Artificial Intelligence
+
+---
+
+## Philosophy
+> Shipping real systems beats theory.
+
+I optimize for:
+- Practical automation
+- Real deployments
+- Open-source contribution
+- Continuous learning through building
+
+---
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=520&lines=Sulman+Farooq;Backend+Developer;AI+Automation+Engineer" />
+![Profile Views](https://komarev.com/ghpvc/?username=SulmanFarooqq&color=0969da&style=flat)
 
-<p>
-  <a href="https://www.linkedin.com/in/sulmanfarooqq">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sulmanfarooq27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SulmanFarooqq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+*Open to remote AI Automation & Agent Development opportunities*
 
 </div>
-
----
-
-### About
-🎓 Software Engineering student at **MUST** (CGPA: 3.7/4.0)  
-⚙️ Building scalable backend APIs and AI automation systems  
-🌍 Open-source contributor at **Mistral AI**
-
-🔍 **Seeking:** Remote Backend / AI Internships
-
----
-
-### Tech Stack
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,flask,postgres,git&perline=7" />
-
-</div>
-
----
-
-### Open Source
-🧠 **Mistral AI**  
-- CLI contributions  
-- PRs, bug fixes, code reviews
-
----
-
-### GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulmanFarooqq&layout=compact&theme=transparent&hide_border=true" width="48%"/>
-</div>
-
----
-
-<p align="center">
-<em>Building backend systems that actually ship.</em>
-</p>
