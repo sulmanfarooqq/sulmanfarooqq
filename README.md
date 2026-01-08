@@ -78,86 +78,313 @@ I'm a second-year Software Engineering student with a passion for developing eff
 
 --- -->
 
-<!-- /////////// -->
+///////////
 <div align="center">
 
-<!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1A1A1A&center=true&vCenter=true&width=940&lines=Welcome+to+Sulman's+Digital+Workspace+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Backend+Developer+%7C+Python+Enthusiast+%F0%9F%90%8D;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=SULMAN%20FAROOQ&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer&descSize=16&descAlignY=55"/>
 
-<!-- Profile Banner with Custom Design -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=180&section=header&text=Sulman%20Farooq&fontSize=42&fontColor=1a1a1a&animation=twinkling&fontAlignY=32&desc=Crafting%20Elegant%20Solutions%20Through%20Code&descSize=16&descAlignY=51&descAlign=50"/>
-
-<!-- Animated Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Software%20Engineering-2nd%20Year-white?style=for-the-badge&logo=academia&logoColor=black&labelColor=f0f0f0" />
-  <img src="https://img.shields.io/badge/Backend-Developer-white?style=for-the-badge&logo=serverless&logoColor=black&labelColor=f0f0f0" />
-  <img src="https://img.shields.io/badge/Python-Automation-white?style=for-the-badge&logo=python&logoColor=black&labelColor=f0f0f0" />
-</p>
-
-<!-- Animated GIF or Visual Element -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Python+Automation+%26+Web+Scraping+%F0%9F%90%8D;Flutter+Developer+%7C+Cross-Platform+Apps+%F0%9F%93%B1;API+%26+Chatbot+Development+%F0%9F%A4%96;Building+Tomorrow's+Solutions+Today+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-```yaml
-Name: Sulman Farooq
-Location: Pakistan 🇵🇰
-Education: Software Engineering (Year 2)
-Focus: Backend Development & Automation
-Passion: Solving Real-World Problems with Code
-Current Mission: Building Scalable Systems
-
-Learning:
-  - Advanced Python Development
-  - API Architecture & Design
-  - Data Structures & Algorithms
-  - Cross-Platform Development
-  
-Fun Fact: "I debug with coffee and determination ☕"
-```
-
-<br clear="right"/>
-
----
-
-## 💻 Tech Stack Universe
-
+<!-- Profile Stats Section -->
 <div align="center">
+  
+## ⚡ DEVELOPER STATS
 
-<!-- Animated Tech Stack -->
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,cpp,cs,javascript,html,css,git,github,vscode,postman&perline=7&theme=light" />
-
-<br><br>
-
-<!-- Tech Proficiency Visualization -->
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+  
+### 📊 GITHUB ANALYTICS
+  
+<img src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1625&title_color=c084fc&text_color=a855f7&icon_color=e879f9&ring_color=c084fc" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+### 🔥 CONTRIBUTION STREAK
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SulmanFarooqq&theme=tokyonight&hide_border=true&background=1a1625&ring=c084fc&fire=e879f9&currStreakLabel=c084fc&sideLabels=a855f7&currStreakNum=e879f9&dates=a855f7&sideNums=c084fc" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Habit Tracker Style Graph -->
+<div align="center">
+
+## 📈 CODING ACTIVITY TRACKER
+
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║                         WEEKLY COMMIT FREQUENCY                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  Mon  ████████████████████░░░░  78%                                      ║
+║  Tue  █████████████████████████  95%                                     ║
+║  Wed  ██████████████████░░░░░░░  68%                                     ║
+║  Thu  ████████████████████████░  89%                                     ║
+║  Fri  ███████████████████████░░  85%                                     ║
+║  Sat  ████████████░░░░░░░░░░░░░  45%                                     ║
+║  Sun  ███████░░░░░░░░░░░░░░░░░░  32%                                     ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SulmanFarooqq&custom_title=Contribution%20Graph&bg_color=1a1625&color=c084fc&line=e879f9&point=a855f7&area=true&hide_border=true&area_color=7c3aed" width="95%"/>
+
+</div>
+
+<br>
+
+<!-- Language Stats with Purple Theme -->
+<div align="center">
+
+## 💻 SKILL PROFICIENCY SYSTEM
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 🎯 PRIMARY SKILLS
+
+```python
+class DeveloperStats:
+    def __init__(self):
+        self.skills = {
+            "Python":           "███████████████████░░  92%",
+            "Flutter (Dart)":   "██████████████████░░░  88%",
+            "API Development":  "█████████████████░░░░  85%",
+            "Web Scraping":     "████████████████████░  95%",
+            "Automation":       "███████████████████░░  90%",
+            "Firebase":         "████████████████░░░░░  78%",
+            "C++":              "███████████████░░░░░░  72%",
+            "JavaScript":       "██████████████░░░░░░░  68%",
+        }
+    
+    def level_up(self):
+        return "Continuously Learning 🚀"
+```
+
+</td>
+<td width="40%" valign="top">
+
+### 📊 LANGUAGE DISTRIBUTION
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulmanFarooqq&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1625&title_color=c084fc&text_color=a855f7&langs_count=6" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Achievement Tracker -->
+<div align="center">
+
+## 🏆 ACHIEVEMENT SYSTEM
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/XP-2,847-a855f7?style=for-the-badge&logo=xp&logoColor=white&labelColor=1a1625"/>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
+<br>
+<b>Total Experience</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/LEVEL-42-c084fc?style=for-the-badge&logo=level&logoColor=white&labelColor=1a1625"/>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60">
+<br>
+<b>Developer Level</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/PROJECTS-24-e879f9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1625"/>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+<br>
+<b>Completed Quests</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/COMMITS-1.2K-d946ef?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1625"/>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+<br>
+<b>Code Contributions</b>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/STREAK-47%20DAYS-a855f7?style=for-the-badge&logo=fire&logoColor=white&labelColor=1a1625"/>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60">
+<br>
+<b>Current Streak</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Detailed Stats Panels -->
+<div align="center">
+
+## 🎮 DETAILED STATISTICS
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📚 SKILL TRACKER
+
+```yaml
+Backend Development:
+  ████████████████░░  Level 18
+  
+Mobile Development:
+  ███████████████░░░  Level 16
+  
+Automation Scripts:
+  ████████████████░░  Level 19
+  
+API Integration:
+  ███████████████░░░  Level 17
+  
+Database Design:
+  ██████████████░░░░  Level 14
+```
+
+</td>
+<td width="33%" align="center">
+
+### 📊 PROJECT SUCCESS RATE
+
+```yaml
+Completed:      ████████████████  85%
+In Progress:    ███░░░░░░░░░░░░░  12%
+Planning:       █░░░░░░░░░░░░░░░   3%
+
+Success Rate:   ████████████████  92%
+Code Quality:   ███████████████░  88%
+Documentation:  ██████████████░░  78%
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 CURRENT FOCUS
+
+```yaml
+Social Media Automation:
+  YouTube  █████████░  85%
+  Instagram █████████░  90%
+  Twitter   ████████░░  75%
+
+Learning Path:
+  DSA       ███████░░░  65%
+  System Design ████░░  40%
+  DevOps    ██░░░░░░░░  25%
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Technology Arsenal -->
+<div align="center">
+
+## ⚔️ TECHNOLOGY ARSENAL
 
 ### 🐍 Backend & Automation
-```text
-Python           ████████████████████░   95%
-API Development  ███████████████████░░   90%
-Web Scraping     ██████████████████░░░   85%
-Chatbots         █████████████████░░░░   80%
-Firebase/Supabase███████████████████░░   88%
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi&theme=dark" height="50"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=1a1625"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=for-the-badge&logo=python&logoColor=1a1625&labelColor=1a1625"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1625"/>
+
+### 📱 Mobile & Web
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase&theme=dark" height="50"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1625"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1625"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1a1625&labelColor=1a1625"/>
+
+### 🔧 Tools & Platform
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=dark" height="50"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1625"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1625"/>
+
+### 💾 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,dart,js&theme=dark" height="50"/>
+
+</div>
+
+<br>
+
+<!-- Activity Heatmap Style -->
+<div align="center">
+
+## 🗓️ CONTRIBUTION HEATMAP
+
+<img src="https://ghchart.rshah.org/a855f7/SulmanFarooqq" width="95%"/>
+
+</div>
+
+<br>
+
+<!-- Current Quests -->
+<div align="center">
+
+## 🎯 ACTIVE QUESTS
+
+<table width="95%">
+<tr>
+<td width="50%">
+
+### 🚀 Main Missions
+```
+┌─────────────────────────────────────┐
+│ ▶ Social Media Bot Suite           │
+│   ├─ YouTube Automation      [████] │
+│   ├─ Instagram Scheduler     [███░] │
+│   └─ Twitter Analytics       [██░░] │
+│                                     │
+│ ▶ API Development Projects         │
+│   ├─ REST API with Firebase  [████] │
+│   ├─ Supabase Integration    [███░] │
+│   └─ Custom Chatbot Engine   [██░░] │
+└─────────────────────────────────────┘
 ```
 
 </td>
 <td width="50%">
 
-### 📱 Frontend & Mobile
-```text
-Flutter (Dart)   ███████████████████░░   90%
-HTML/CSS         ██████████████████░░░   85%
-JavaScript       ████████████████░░░░░   75%
-Responsive Design████████████████████░   92%
-UI/UX Principles ███████████████░░░░░░   70%
+### 📚 Side Quests
+```
+┌─────────────────────────────────────┐
+│ ▶ Learning Pathways                 │
+│   ├─ Data Structures        [████░] │
+│   ├─ Algorithms Practice    [███░░] │
+│   └─ System Design          [██░░░] │
+│                                     │
+│ ▶ Python Automation Tools          │
+│   ├─ Web Scraping Suite    [████░] │
+│   ├─ Data Processing Bots  [████░] │
+│   └─ Task Automation       [███░░] │
+└─────────────────────────────────────┘
 ```
 
 </td>
@@ -166,222 +393,129 @@ UI/UX Principles ███████████████░░░░░░
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Analytics Dashboard
-
+<!-- Inventory System -->
 <div align="center">
 
-<!-- Stats Cards with White Theme -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=2d3436&icon_color=636e72&include_all_commits=true&count_private=true&card_width=400" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SulmanFarooqq&theme=default&hide_border=true&background=ffffff&ring=1a1a1a&fire=636e72&currStreakLabel=1a1a1a&sideLabels=2d3436&currStreakNum=1a1a1a&dates=636e72&sideNums=2d3436" />
+## 🎒 DEVELOPER INVENTORY
 
-<!-- Languages Graph -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulmanFarooqq&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=2d3436&langs_count=8" />
-
-<!-- Activity Graph -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SulmanFarooqq&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=2d3436&layout=compact" />
-
-<!-- Contribution Graph with White Theme -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SulmanFarooqq&bg_color=ffffff&color=1a1a1a&line=636e72&point=2d3436&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
-
-<!-- Trophy Section -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SulmanFarooqq&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" />
+| Item | Type | Level | Status |
+|:-----|:-----|:------|:-------|
+| <img src="https://img.icons8.com/color/48/python.png" width="30"/> | **Python Mastery** | ⭐⭐⭐⭐⭐ | `EQUIPPED` |
+| <img src="https://img.icons8.com/color/48/flutter.png" width="30"/> | **Flutter SDK** | ⭐⭐⭐⭐ | `EQUIPPED` |
+| <img src="https://img.icons8.com/color/48/api.png" width="30"/> | **API Toolkit** | ⭐⭐⭐⭐ | `EQUIPPED` |
+| <img src="https://img.icons8.com/color/48/firebase.png" width="30"/> | **Firebase Power** | ⭐⭐⭐⭐ | `EQUIPPED` |
+| <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="30"/> | **C++ Compiler** | ⭐⭐⭐ | `READY` |
+| <img src="https://img.icons8.com/color/48/git.png" width="30"/> | **Version Control** | ⭐⭐⭐⭐⭐ | `EQUIPPED` |
 
 </div>
 
----
+<br>
 
-## 🚀 Current Projects & Focus
-
+<!-- Trophy Case -->
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+## 🏆 TROPHY SHOWCASE
 
-### 🤖 Automation Suite
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-**Social Media Bots**
-- YouTube Automation
-- Instagram Scheduler
-- X (Twitter) Analytics
-
-</td>
-<td width="33%" align="center">
-
-### 🔌 API Development
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-**REST APIs**
-- Firebase Integration
-- Supabase Backend
-- Custom Endpoints
-
-</td>
-<td width="33%" align="center">
-
-### 📚 DSA Practice
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-**Problem Solving**
-- LeetCode Daily
-- Algorithm Design
-- Optimization
-
-</td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=SulmanFarooqq&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" width="95%"/>
 
 </div>
 
----
+<br>
 
-## 🛠️ Development Environment
-
+<!-- Quote Section -->
 <div align="center">
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#ffffff','primaryTextColor':'#1a1a1a','primaryBorderColor':'#636e72','lineColor':'#2d3436','secondaryColor':'#f0f0f0','tertiaryColor':'#ffffff'}}}%%
-graph LR
-    A[💻 VS Code] --> B[🐍 Python]
-    A --> C[🎯 Dart/Flutter]
-    B --> D[🔧 Selenium]
-    B --> E[📊 Pandas]
-    B --> F[🌐 BeautifulSoup]
-    C --> G[📱 Mobile Apps]
-    C --> H[🌐 Web Apps]
-    A --> I[🔥 Firebase]
-    A --> J[📦 Supabase]
-    
-    style A fill:#ffffff,stroke:#1a1a1a,stroke-width:3px,color:#1a1a1a
-    style B fill:#f0f0f0,stroke:#636e72,stroke-width:2px,color:#1a1a1a
-    style C fill:#f0f0f0,stroke:#636e72,stroke-width:2px,color:#1a1a1a
-    style D fill:#ffffff,stroke:#2d3436,stroke-width:1px,color:#2d3436
-    style E fill:#ffffff,stroke:#2d3436,stroke-width:1px,color:#2d3436
-    style F fill:#ffffff,stroke:#2d3436,stroke-width:1px,color:#2d3436
-    style G fill:#ffffff,stroke:#2d3436,stroke-width:1px,color:#2d3436
-    style H fill:#ffffff,stroke:#2d3436,stroke-width:1px,color:#2d3436
-    style I fill:#ffffff,stroke:#2d3436,stroke-width:1px,color:#2d3436
-    style J fill:#ffffff,stroke:#2d3436,stroke-width:1px,color:#2d3436
+
+## 💭 DEVELOPER'S CREED
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║  "Write code as if the next person to maintain it is a       ║
+║   psychopath who knows where you live."                      ║
+║                                                               ║
+║              — Anonymous Developer Wisdom                    ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20poetry%20written%20in%20logic%2C%20and%20bugs%20are%20the%20typos.&author=Sulman%20Farooq" width="80%"/>
+
 </div>
 
----
+<br>
 
-## 📈 Coding Activity Infographic
-
+<!-- Stats Footer -->
 <div align="center">
 
-<!-- Activity Metrics -->
+## 📊 REAL-TIME METRICS
+
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Code%20Time-∞%20Hours-1a1a1a?style=for-the-badge&labelColor=f0f0f0" /><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+<td align="center">
+<img src="https://img.shields.io/badge/Lines%20of%20Code-500K%2B-a855f7?style=for-the-badge&labelColor=1a1625&logo=code&logoColor=white"/>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Projects-20+-1a1a1a?style=for-the-badge&labelColor=f0f0f0" /><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
+<td align="center">
+<img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20Cups-c084fc?style=for-the-badge&labelColor=1a1625&logo=buymeacoffee&logoColor=white"/>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20Cups-1a1a1a?style=for-the-badge&labelColor=f0f0f0" /><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80">
+<td align="center">
+<img src="https://img.shields.io/badge/Bugs%20Squashed-1K%2B-e879f9?style=for-the-badge&labelColor=1a1625&logo=bug&logoColor=white"/>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Bugs%20Fixed-1000+-1a1a1a?style=for-the-badge&labelColor=f0f0f0" /><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80">
+<td align="center">
+<img src="https://img.shields.io/badge/Hours%20Coded-5K%2B-d946ef?style=for-the-badge&labelColor=1a1625&logo=clock&logoColor=white"/>
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 🎨 Skills Breakdown
-
-<div align="center">
-
-<!-- Interactive Skill Bars -->
-| Skill Category | Technologies | Proficiency |
-|:---|:---|:---|
-| **🐍 Backend Development** | Python, Flask, FastAPI, REST APIs | ![](https://geps.dev/progress/90?successColor=1a1a1a&dangerColor=f0f0f0) |
-| **📱 Mobile Development** | Flutter, Dart, Firebase, Supabase | ![](https://geps.dev/progress/85?successColor=1a1a1a&dangerColor=f0f0f0) |
-| **🤖 Automation & Scraping** | Selenium, BeautifulSoup, Pandas | ![](https://geps.dev/progress/92?successColor=1a1a1a&dangerColor=f0f0f0) |
-| **💾 Databases** | Firebase, Supabase, SQLite | ![](https://geps.dev/progress/80?successColor=1a1a1a&dangerColor=f0f0f0) |
-| **🔧 DevOps & Tools** | Git, GitHub, Postman, VS Code | ![](https://geps.dev/progress/88?successColor=1a1a1a&dangerColor=f0f0f0) |
-| **🌐 Web Technologies** | HTML, CSS, JavaScript, Responsive Design | ![](https://geps.dev/progress/83?successColor=1a1a1a&dangerColor=f0f0f0) |
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=SulmanFarooqq&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS&labelColor=1a1625" />
 
 </div>
 
----
+<br>
 
-## 🌟 Featured Repositories
-
+<!-- Connect Section -->
 <div align="center">
 
-<!-- Repo Cards -->
-<a href="https://github.com/SulmanFarooqq?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SulmanFarooqq&repo=YOUR_TOP_REPO_1&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=2d3436&icon_color=636e72" width="48%" />
+## 🌐 CONNECT WITH ME
+
+<a href="https://github.com/SulmanFarooqq">
+  <img src="https://img.shields.io/badge/GitHub-Profile-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1625"/>
 </a>
-<a href="https://github.com/SulmanFarooqq?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SulmanFarooqq&repo=YOUR_TOP_REPO_2&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=2d3436&icon_color=636e72" width="48%" />
-</a>
-
-</div>
-
----
-
-## 💭 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true&quote=Write%20code%20as%20if%20the%20next%20person%20to%20maintain%20it%20is%20a%20psychopath%20who%20knows%20where%20you%20live." />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<!-- Social Links with Hover Effect -->
-<a href="https://github.com/SulmanFarooqq" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-1a1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=f0f0f0" />
-</a>
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=f0f0f0" />
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-c084fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1625"/>
 </a>
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=f0f0f0" />
+  <img src="https://img.shields.io/badge/Email-Contact-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1625"/>
 </a>
-<a href="https://twitter.com/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=f0f0f0" />
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-Follow-d946ef?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1625"/>
 </a>
-
-<br><br>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=SulmanFarooqq&style=for-the-badge&color=1a1a1a&label=Profile+Views" />
 
 </div>
 
----
+<br>
 
+<!-- Snake Animation -->
 <div align="center">
 
-<!-- Animated Snake -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SulmanFarooqq/SulmanFarooqq/output/github-contribution-grid-snake-default.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SulmanFarooqq/SulmanFarooqq/output/github-contribution-grid-snake-default.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SulmanFarooqq/SulmanFarooqq/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SulmanFarooqq/SulmanFarooqq/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=120&section=footer"/>
+</div>
 
-### ✨ *"Code is poetry written in logic"* ✨
+<br>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
+
+### ⚡ *"Level up every day, one commit at a time"* ⚡
+
+<sub>Made with 💜 by Sulman Farooq</sub>
 
 </div>
