@@ -78,30 +78,58 @@ I'm a second-year Software Engineering student with a passion for developing eff
 
 --- -->
 
-///////////
+<!-- /////////// -->
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=SULMAN%20FAROOQ&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20Engineer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&text=Sulman%20Farooq&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=.NET%20Backend%20Developer%20%7C%20AI%20Automation%20Engineer&descAlignY=55"/>
 
 <!-- Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C084FC&center=true&width=800&lines=Python+Backend+%26+Automation;API+%26+Chatbot+Development;Flutter+Cross-Platform+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=C084FC&center=true&width=850&lines=ASP.NET+Core+%26+C%23+Backend+Development;Python+FastAPI+%26+Flask+APIs;AI+Agents+%26+Automation+Workflows;Open-Source+Contributor" />
 
 </div>
 
 ---
 
-## 🧠 About Me
-Backend-focused developer specializing in **Python automation**, **REST APIs**, and **scalable systems**.  
-I build tools that **save time, remove manual work, and actually ship**.
+## 👋 About Me
+
+I am a **Junior .NET Backend Developer** and **Software Engineering student (CGPA 3.7/4.0)** with hands-on experience building and deploying **backend systems, REST APIs, and AI-powered automation**.
+
+I focus on **clean architecture**, **scalable backend design**, and **shipping real, deployed systems** rather than theory-heavy projects.
+
+📍 Mirpur, Azad Kashmir, Pakistan  
+🌍 Open to **Remote Internships & Junior Backend Roles**
 
 ---
 
-## 📊 GitHub Performance
+## 🛠 Core Technologies
+
+**Backend Development**
+- **ASP.NET Core & C#** — RESTful APIs (actively building production projects)
+- **Python** — FastAPI & Flask (deployed on Render & Railway)
+
+**AI & Automation**
+- AI agents using **Gemini API**
+- Workflow automation with **n8n**
+- Custom CLI tools for developer productivity
+
+**Databases**
+- PostgreSQL (Supabase)
+- MySQL
+
+**Tools**
+- Git & GitHub (active open-source contributions)
+- Docker (learning & experimentation)
+- Postman
+
+---
+
+## 📊 GitHub Activity & Performance
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SulmanFarooqq&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SulmanFarooqq&bg_color=1a1625&color=c084fc&line=e879f9&point=a855f7&area=true&hide_border=true" width="95%"/>
@@ -110,20 +138,24 @@ I build tools that **save time, remove manual work, and actually ship**.
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Proof of Work
 
-**Backend & Automation**  
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,firebase&theme=dark" />
-
-**Mobile & Web**  
-<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js&theme=dark" />
-
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+- ✅ Multiple **live backend APIs** deployed on cloud platforms  
+- ✅ **Open-source contributor** to Mistral CLI & automation tools  
+- ✅ AI-driven workflows automating development and operational tasks  
+- ✅ Consistent GitHub activity with real-world projects  
 
 ---
 
-## 🌍 Connect
+## 🏆 Certifications & Learning
+
+- **AWS – Solutions Architecture Job Simulation**
+- **JPMorgan Chase – Software Engineering Job Simulation**
+- **Introduction to Artificial Intelligence (AI)**
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -131,11 +163,11 @@ I build tools that **save time, remove manual work, and actually ship**.
 <img src="https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/sulmanfarooqq">
 <img src="https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:sulmanfarooq27@gmail.com">
 <img src="https://img.shields.io/badge/Email-e879f9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
