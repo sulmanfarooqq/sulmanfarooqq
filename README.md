@@ -79,31 +79,84 @@ I'm a second-year Software Engineering student with a passion for developing eff
 --- -->
 
 <!-- /////////// -->
+<div align="center">
+  <img src="assets/desktop-wallpaper-christopher-nolan-quotes-88.jpg" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); max-width: 100%;" />
+
+  <h1 style="font-family: Segoe UI, sans-serif; color: #2d3436; margin-top: 20px;">
+    👋 Hi, I’m Sulman Farooq
+  </h1>
+
+  <p style="font-size: 1.1em; color: #636e72; max-width: 720px;">
+    AI Automation & Agent Developer • Chatbot Engineer • Software Engineering Student
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/sulmanfarooqq">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:sulmanfarooq27@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/SulmanFarooqq">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## Certifications
-- AWS Solutions Architecture (Simulation)
-- JPMorgan Chase Software Engineering (Simulation)
-- Introduction to Artificial Intelligence
+## 🧠 About Me
+
+I’m a Software Engineering student focused on **AI automation, intelligent agents, and chatbots**.
+
+I build systems that automate workflows, interact with APIs, and use LLMs to solve real operational problems.  
+Backend development is a **supporting skill** I’m actively learning to ship scalable AI-driven systems.
+
+**Primary focus:**
+- AI agents & task automation  
+- Chatbots & API integrations  
+- Workflow automation for real use cases  
+
+**Seeking:** Remote internships & junior roles in **AI Automation / AI Engineering**
 
 ---
 
-## Philosophy
-> Shipping real systems beats theory.
-
-I optimize for:
-- Practical automation
-- Real deployments
-- Open-source contribution
-- Continuous learning through building
-
----
-
+## 🛠 Tech Stack
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SulmanFarooqq&color=0969da&style=flat)
-
-*Open to remote AI Automation & Agent Development opportunities*
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,cs,dotnet,postgres,git&perline=7" />
 
 </div>
+
+---
+
+## 🤖 AI & Automation
+- **AI Agents** — Gemini API–based agents
+- **Workflow Automation** — n8n integrations
+- **Chatbots** — conversational & task-oriented bots
+- **CLI Tools** — automation scripts and utilities
+- **API Integration** — Supabase & REST services
+
+---
+
+## 🌍 Open Source
+**Contributor (Remote)**  
+- Contributions to Opensource projects  
+- Bug fixes, PRs, and issue resolution  
+- Collaboration via reviews and documentation
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulmanFarooqq&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulmanFarooqq&theme=transparent&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🚧 Current Focus
