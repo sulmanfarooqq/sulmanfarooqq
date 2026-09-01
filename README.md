@@ -4,17 +4,18 @@
   <h1>Hi, I'm Sulman Farooq</h1>
 
   <p>
-    <strong>Software Engineer · Backend Developer · AI Automation Builder</strong>
+    <strong>Systems & Automation Engineer · AI Automation Builder · Backend / Product Engineer</strong>
   </p>
 
   <p>
-    I build backend systems, APIs, automation workflows, AI agents, and practical software products —<br/>
+    I build backend systems, APIs, automation workflows, AI agents, dashboards, and practical software products —<br/>
     with a focus on turning repetitive business processes into reliable, scalable systems.
   </p>
 
   <p>
     <a href="https://flowvello.com">FlowVello</a> ·
-    <a href="https://github.com/sulmanfarooqq">GitHub</a>
+    <a href="https://github.com/sulmanfarooqq">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/sulmanfarooqq/">LinkedIn</a>
   </p>
 </div>
 
@@ -22,9 +23,9 @@
 
 ## About Me
 
-I'm a Software Engineer focused on **backend development, APIs, automation, AI agents, and business software**.
+I'm a Software Engineer focused on **backend engineering, APIs, AI agents, automation, databases, and business software**.
 
-I also build solutions through **FlowVello**, an AI and software automation agency focused on helping businesses reduce manual work and build custom digital systems.
+I also build solutions through **FlowVello**, a software and AI automation agency focused on helping businesses reduce manual work and build custom digital systems.
 
 My work sits at the intersection of:
 
@@ -34,6 +35,7 @@ My work sits at the intersection of:
 - Business process automation
 - Web and mobile applications
 - Data collection and workflow systems
+- Production deployment and system operations
 
 > **My goal:** build software that solves an actual business problem, not software that merely looks impressive in a portfolio.
 
@@ -96,6 +98,84 @@ My work sits at the intersection of:
 
 ---
 
+## Selected Engineering Work
+
+### 1. WhatsApp AI Automation
+
+An AI-powered customer communication system designed to answer common questions, engage leads, automate conversations, and hand off complex cases to a human when required.
+
+**Focus:** FastAPI · Python · Supabase/PostgreSQL · Gemini · Evolution API · Webhooks · AI workflows · Lead management
+
+[GitHub Repository](https://github.com/sulmanfarooqq/whatsapp)
+
+### 2. WhatsApp CRM Platform
+
+A business-oriented WhatsApp CRM architecture combining conversations, customer data, automation workflows, AI responses, and operational dashboards.
+
+**Focus:** Next.js · Supabase · Evolution API · Gemini · CRM architecture
+
+[GitHub Repository](https://github.com/sulmanfarooqq/wacrm_evolution)
+
+### 3. Production-Style Bookstore API
+
+A layered REST API demonstrating authentication, validation, CRUD operations, search, pagination, security middleware, testing, health checks, and cloud deployment.
+
+**Focus:** Node.js · Express.js · MongoDB · Mongoose · Jest · Supertest · Railway
+
+[GitHub Repository](https://github.com/sulmanfarooqq/bookstore-api)
+
+### 4. E-commerce Backend & Admin System
+
+A complete commerce backend with authentication, products, categories, cart, checkout, COD, Stripe payments, orders, Cloudinary image management, and separate admin/customer interfaces.
+
+**Focus:** Node.js · Express.js · MongoDB · JWT · Stripe · Cloudinary · React
+
+[GitHub Repository](https://github.com/sulmanfarooqq/ecommerce-backend-design)
+
+### 5. Social Media Automation Platform
+
+Automation architecture for managing multiple social platforms with scheduling, AI-generated captions/hashtags, account integrations, and analytics.
+
+**Focus:** Automation · APIs · OAuth · Scheduling · AI content workflows
+
+[GitHub Repository](https://github.com/sulmanfarooqq/Uploader-X)
+
+### 6. AI & Algorithms Internship Work
+
+Applied machine learning, NLP, computer vision, and pathfinding algorithms, including a custom TF-IDF + Softmax sentiment classifier, A*/Dijkstra/BFS implementations, and adaptive thresholding with contour detection.
+
+[GitHub Repository](https://github.com/sulmanfarooqq/Progree-internship-B1-645)
+
+### 7. University CMS Automation API
+
+A Python REST API that authenticates against a university CMS, extracts attendance/course information, processes HTML, and exposes structured data for other systems.
+
+**Focus:** Python · Flask · BeautifulSoup · APScheduler · REST APIs
+
+[GitHub Repository](https://github.com/sulmanfarooqq/python_api)
+
+---
+
+## Live Applications & Deployments
+
+I also maintain several deployed applications and dashboards through **Netlify**, including production-style frontends, admin panels, business interfaces, and personal applications.
+
+| Application | Live Deployment |
+| --- | --- |
+| **FlowVello** | [flowvello.com](https://flowvello.com) |
+| **FlowVello Dashboard** | [dashboard.flowvello.com](https://dashboard.flowvello.com) |
+| **Personal Portfolio** | [sulmanfarooq.netlify.app](https://sulmanfarooq.netlify.app) |
+| **GPA Application** | [mustgpa.netlify.app](https://mustgpa.netlify.app) |
+| **Movies CMS Panel** | [movies-cms-panel.netlify.app](https://movies-cms-panel.netlify.app) |
+| **Hassan Maid** | [hassan-maid.netlify.app](https://hassan-maid.netlify.app) |
+| **Backend Project Demo** | [backendprojectt.netlify.app](https://backendprojectt.netlify.app) |
+| **Marketing Studio** | [marketing-studio.netlify.app](https://marketing-studio.netlify.app) |
+| **Project Depot** | [project-depot.netlify.app](https://project-depot.netlify.app) |
+
+These deployments demonstrate experience beyond source code: **building, connecting, deploying, and maintaining usable web applications.**
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -112,17 +192,23 @@ My work sits at the intersection of:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Databases & Cloud
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ### Frontend & Mobile
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Automation & Developer Tools
@@ -140,51 +226,36 @@ My work sits at the intersection of:
 Backend Engineering       ███████████████████░  APIs · Business Logic · Services
 AI Automation             ██████████████████░░  Agents · Workflows · Integrations
 API Development           ███████████████████░  REST · Webhooks · Third-party APIs
-Database Development      ████████████████░░░░  Supabase · Firebase · Data Modeling
+Database Development      ████████████████░░░░  PostgreSQL · MongoDB · Supabase
 Python Automation         ███████████████████░  Scraping · Bots · Data Processing
-Web Development           ███████████████░░░░░  HTML · CSS · JavaScript
+Web Development           ███████████████░░░░░  React · Next.js · HTML · CSS · JavaScript
 Mobile Development        █████████████░░░░░░░  Flutter · Dart
-Cloud & Deployment        █████████████░░░░░░░  Heroku · Firebase · Supabase
+Cloud & Deployment        ██████████████░░░░░░  Netlify · Heroku · Railway · Supabase
 ```
 
 ---
 
-## Selected Work & Projects
+## Open-Source Contribution
 
-### WhatsApp AI Automation
+### Mistral AI — Mistral Vibe
 
-An AI-powered customer communication system designed to answer common questions, engage leads, automate conversations, and hand off complex cases to a human when required.
+Contributed to **Mistral Vibe**, an open-source AI coding agent.
 
-**Focus:** AI agents · WhatsApp · APIs · Webhooks · Supabase · Automation
+- **PR #35 — AGENT.md project conventions:** added support for project-level `AGENT.md` / `agent.md` conventions, configurable filenames, system-prompt injection, tests, and documentation.
+- **PR #49 — TUI clear-screen behavior:** routed `Ctrl+L` through the `/clear` command for consistent behavior and added cross-platform tests.
 
-### Business Automation Systems
-
-Custom automation workflows that connect APIs, databases, communication channels, and internal processes to reduce repetitive manual work.
-
-**Focus:** Python · APIs · Webhooks · Data processing · Workflow automation
-
-### Custom SaaS & Software Products
-
-Backend-first applications and business platforms designed around real operational requirements rather than generic templates.
-
-**Focus:** Backend architecture · Databases · Authentication · APIs · Cloud deployment
-
-### Data Collection & Automation
-
-Automation systems for structured data collection, processing, transformation, and downstream workflows.
-
-**Focus:** Python · Selenium · BeautifulSoup · Pandas · APIs
+[PR #35](https://github.com/mistralai/mistral-vibe/pull/35) · [PR #49](https://github.com/mistralai/mistral-vibe/pull/49)
 
 ---
 
 ## What I'm Working On
 
 - Building AI agents for real business workflows
-- Developing automation products that can be offered through FlowVello
+- Developing automation products through FlowVello
 - Improving backend engineering with **.NET and modern API architecture**
 - Building WhatsApp-based business automation systems
 - Developing SaaS and custom software products
-- Exploring practical applications of AI in business operations
+- Applying AI to practical business operations
 - Strengthening system design, databases, testing, and production engineering
 
 ---
@@ -228,12 +299,23 @@ I care more about **reliability, maintainability, useful automation, and measura
 ## Tools I Use
 
 - **Development:** VS Code, Git, GitHub, Postman
-- **Backend:** .NET, Node.js, Express.js, Python
+- **Backend:** .NET, Node.js, Express.js, Python, FastAPI
 - **Automation:** Selenium, BeautifulSoup, Pandas, APIs, Webhooks
-- **Data:** Supabase, Firebase
+- **Data:** PostgreSQL, MongoDB, Supabase, Firebase
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript
 - **Mobile:** Flutter, Dart
-- **Deployment:** Heroku and cloud-backed services
+- **Deployment:** Netlify, Heroku, Railway, Supabase
 - **AI & Automation:** AI APIs, agents, workflow integrations and custom automation
+
+---
+
+## Portfolio & Profiles
+
+- **Portfolio:** [sulmanfarooq.netlify.app](https://sulmanfarooq.netlify.app)
+- **FlowVello:** [flowvello.com](https://flowvello.com)
+- **FlowVello Dashboard:** [dashboard.flowvello.com](https://dashboard.flowvello.com)
+- **GitHub:** [github.com/sulmanfarooqq](https://github.com/sulmanfarooqq)
+- **LinkedIn:** [linkedin.com/in/sulmanfarooqq](https://www.linkedin.com/in/sulmanfarooqq/)
 
 ---
 
@@ -245,7 +327,9 @@ If your business has a repetitive process, disconnected systems, manual customer
   <a href="https://flowvello.com"><strong>FlowVello — AI & Software Automation</strong></a>
   <br/>
   <br/>
-  <a href="https://github.com/sulmanfarooqq">GitHub</a>
+  <a href="https://github.com/sulmanfarooqq">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/sulmanfarooqq/">LinkedIn</a> ·
+  <a href="https://sulmanfarooq.netlify.app">Portfolio</a>
 </p>
 
 ---
