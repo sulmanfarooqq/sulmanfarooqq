@@ -1,79 +1,82 @@
 <div align="center">
-  <img src="assets/desktop-wallpaper-christopher-nolan-quotes-88.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2); max-width: 100%;" />
-  <h1 style="font-family: 'Segoe UI', sans-serif; color: #2d3436; text-shadow: 2px 2px 8px rgba(0,0,0,0.2); margin-top: 20px;">
-    👋 Welcome to My Profile
-  </h1>
-  <p style="font-size: 1.2em; color: #636e72; font-family: 'Segoe UI', sans-serif; max-width: 700px;">
-    2nd-Year Software Engineering Student | Backend Developer | Python Automation & Web Scraping | Flutter (Web & Mobile) | API & Chatbot Developer
-  </p>
+  <img src="assets/desktop-wallpaper-christopher-nolan-quotes-88.jpg" alt="Christopher Nolan quote" width="100%" />
+
+  # Sulman Farooq
+  **Software Engineer · Backend · APIs · AI Automation**
+
+  I build backend systems, APIs, automation workflows, and practical AI-powered products that solve real business problems.
+
+  <a href="https://flowvello.com">FlowVello</a> ·
+  <a href="https://sulmanfarooq.netlify.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sulmanfarooqq/">LinkedIn</a>
 </div>
 
 ---
 
-### 🧠 About Me
+## Core Skills
 
-I'm a second-year Software Engineering student with a passion for developing efficient backend systems and user-friendly web/mobile apps. I specialize in Python automation, API integrations, and cross-platform development with Flutter.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-```markdown
-💼 Tech Stack:
-- Flutter (Dart) — Web & Mobile Development
-- Python — Automation, Web Scraping, Chatbots
-- C++ / C# — Problem Solving, Desktop Applications
-- Firebase / Supabase — Backend as a Service
-- HTML, CSS, JavaScript — Front-End Essentials
-- Git & GitHub — Version Control
-```
-
-🔍 Currently enhancing my backend logic, refining API development, and solving real-world automation tasks.
+**Focus:** Backend Engineering · REST APIs · AI Agents · Business Automation · Databases · SaaS · Integrations · Webhooks · Deployment
 
 ---
 
-### 🔢 GitHub Stats
+## Selected Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [Bookstore API](https://github.com/sulmanfarooqq/bookstore-api) | Node.js · Express · MongoDB · Jest · Supertest · REST API |
+| [E-commerce Backend](https://github.com/sulmanfarooqq/ecommerce-backend-design) | Express · MongoDB · JWT · Stripe · Cloudinary · React |
+| [WhatsApp CRM](https://github.com/sulmanfarooqq/wacrm_evolution) | Next.js · Supabase · Evolution API · Gemini · CRM workflows |
+| [AI & Algorithms Internship](https://github.com/sulmanfarooqq/Progree-internship-B1-645) | ML/NLP · Computer Vision · A* · Dijkstra · BFS |
+| [Hassan Maid](https://github.com/sulmanfarooqq/hassan-maid) | Full-stack web application · UI · Deployment |
+| [Gmail Automation](https://github.com/sulmanfarooqq/gmail_automation) | Python · Automation · Email workflows |
+
+---
+
+## Open Source
+
+**Mistral AI — Mistral Vibe**
+
+- [PR #35 — Project-level AGENT.md conventions](https://github.com/mistralai/mistral-vibe/pull/35)
+- [PR #49 — TUI clear-screen behavior](https://github.com/mistralai/mistral-vibe/pull/49)
+
+---
+
+## Live Work
+
+**FlowVello** — Software & AI Automation Agency  
+[flowvello.com](https://flowvello.com) · [Dashboard](https://dashboard.flowvello.com)
+
+**Portfolio** — [sulmanfarooq.netlify.app](https://sulmanfarooq.netlify.app)
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SulmanFarooqq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Sulman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sulmanfarooqq&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulmanfarooqq&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sulmanfarooqq&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulmanFarooqq&layout=compact&theme=algolia" alt="Top languages" />
-</p>
-
----
-
-### 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulmanFarooqq&theme=algolia" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧰 Tools I Use
-
-```markdown
-- VS Code & Dart DevTools
-- GitHub & Postman
-- Python Libraries: Selenium, BeautifulSoup, Pandas
-- Git CLI & GitHub Desktop
-- Firebase Console & Supabase Studio
-```
-
----
-
-### 🚧 Currently Working On
-- Automation for a youtube,Instagram,X (currently twitter)
-- Python Bots for Automation Tasks (e.g. Data Collection)
-- REST API Projects with Firebase & Supabase
-- Data Structures & Algorithms (DSA) Practice
-
----
-
-<p align="center">
-  <i>“Write code as if the next person to maintain it is a psychopath who knows where you live.”</i>
-</p>
-
-
+<div align="center">
+  <b>Building useful software at the intersection of backend engineering, AI, and automation.</b>
+</div>
