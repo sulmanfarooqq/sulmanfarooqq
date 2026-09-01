@@ -1,135 +1,173 @@
 <div align="center">
-  <h1>Muhammad Suliman</h1>
-  <p><strong>Software Engineer · Backend & API Development · AI Automation</strong></p>
-  <p>
-    I build backend systems, APIs, AI-powered automation, dashboards, and practical software products that solve real business problems.
-  </p>
-  <p>
-    <a href="https://flowvello.com">FlowVello</a> ·
-    <a href="https://sulmanfarooq.netlify.app">Portfolio</a> ·
-    <a href="https://www.linkedin.com/in/sulmanfarooqq/">LinkedIn</a> ·
-    <a href="https://github.com/sulmanfarooqq">GitHub</a>
-  </p>
+
+# Muhammad Suliman
+
+### Software Engineer · Backend · APIs · AI Automation
+
+Building reliable backend systems, business software, APIs, and AI-powered automation.
+
+<a href="https://sulmanfarooq.netlify.app">Portfolio</a> · <a href="https://www.linkedin.com/in/sulmanfarooqq/">LinkedIn</a> · <a href="https://flowvello.com">FlowVello</a> · <a href="https://github.com/sulmanfarooqq">GitHub</a>
+
 </div>
 
 ---
 
-## About
+## About Me
 
-Software Engineer focused on **backend engineering, REST APIs, databases, AI integrations, business automation, and production-oriented web applications**.
+I’m a **Software Engineer** focused on building practical software that moves from **idea → architecture → implementation → deployment**.
 
-I work across the full path from idea to deployment: understanding the problem, designing the system, building the API and integrations, connecting the frontend, testing the result, and deploying it.
+My strongest areas are **backend engineering, REST APIs, databases, third-party integrations, AI automation, and business applications**. I enjoy taking real-world problems and turning them into maintainable software with clear APIs, reliable business logic, and production-ready deployment.
 
-I also build software and AI automation solutions through **FlowVello**.
+I also build software and automation solutions through **FlowVello**, with a focus on helping businesses automate repetitive workflows and improve their digital operations.
 
-## Core Expertise
+### What I Bring
 
-- **Backend:** Node.js, Express.js, Python, FastAPI, .NET
-- **APIs:** REST APIs, webhooks, third-party integrations, authentication
-- **Databases:** MongoDB, PostgreSQL, Supabase, SQL
-- **AI & Automation:** AI agents, Gemini integrations, workflow automation, communication automation
-- **Frontend:** React, Next.js, HTML, CSS, JavaScript
-- **Mobile:** Flutter, Dart
-- **Deployment:** Netlify, Heroku, Railway, Supabase
-- **Testing:** Jest, Supertest, Selenium, software quality practices
+- Backend systems and REST API development
+- Database design and application data flows
+- AI integrations and workflow automation
+- Business software and internal tools
+- Third-party API and webhook integrations
+- Full-stack application development when required
+- Testing, debugging, deployment, and production troubleshooting
 
-## Selected Projects
+---
 
-### Bookstore API
+## Technical Stack
 
-Production-oriented REST API demonstrating CRUD operations, validation, centralized error handling, pagination, search, security middleware, automated tests, health checks, and deployment configuration.
+**Backend**  
+Node.js · Express.js · Python · FastAPI · .NET
 
-**Stack:** Node.js · Express · MongoDB · Mongoose · Jest · Supertest
+**Languages**  
+JavaScript · TypeScript · Python · C# · SQL · Dart
 
-→ [View repository](https://github.com/sulmanfarooqq/bookstore-api)
+**Frontend**  
+React · Next.js · Vite · HTML · CSS · Tailwind CSS
 
-### E-commerce Platform
+**Databases**  
+MongoDB · PostgreSQL · Supabase · SQL
 
-Full-stack commerce system with customer and admin applications, authentication, product management, cart and checkout flows, orders, Stripe payments, Cloudinary media storage, and MongoDB.
+**AI & Automation**  
+AI Agents · Gemini · LLM APIs · Workflow Automation · WhatsApp Automation · Email Automation
 
-**Stack:** React · Node.js · Express · MongoDB · JWT · Stripe · Cloudinary
+**Engineering**  
+REST APIs · Authentication · Webhooks · Validation · Error Handling · Testing · API Integrations
 
-→ [View repository](https://github.com/sulmanfarooqq/ecommerce-backend-design)
+**Deployment & Tools**  
+Netlify · Heroku · Railway · Git · GitHub · Docker
 
-### Progree AI Internship
+---
 
-Applied machine-learning work covering a custom TF-IDF + Softmax sentiment classifier, graph pathfinding algorithms, and a computer-vision detection pipeline.
+## Featured Projects
 
-**Highlights:** Macro F1 0.843 · A* pathfinding · adaptive thresholding + contour detection
+### 01 · Bookstore API
 
-→ [View repository](https://github.com/sulmanfarooqq/Progree-internship-B1-645)
+A backend-focused REST API demonstrating production-oriented API engineering: CRUD operations, validation, pagination, search, centralized error handling, security middleware, health checks, automated tests, and deployment configuration.
 
-### Hassan Home Maids
+**Node.js · Express.js · MongoDB · Mongoose · Jest · Supertest**
 
-Customer-facing home-services website combining server-side rendering, Netlify Functions, transactional email, AI chatbot support, maps, and responsive UI.
+<a href="https://github.com/sulmanfarooqq/bookstore-api">View Repository →</a>
 
-**Stack:** Node.js · Express · EJS · Netlify Functions · Resend · Gemini
+### 02 · E-commerce Platform
 
-→ [Code](https://github.com/sulmanfarooqq/hassan-maid) · [Live site](https://hassan-maid.netlify.app)
+A full-stack commerce application covering customer and admin workflows, authentication, product management, cart and checkout flows, orders, payments, media storage, and database integration.
 
-### Personal Portfolio
+**React · Node.js · Express.js · MongoDB · JWT · Stripe · Cloudinary**
 
-Modern responsive portfolio built with React, Vite, Tailwind CSS, Framer Motion, and Lenis.
+<a href="https://github.com/sulmanfarooqq/ecommerce-backend-design">View Repository →</a>
 
-→ [Code](https://github.com/sulmanfarooqq/my-porfolio) · [Live site](https://sulmanfarooq.netlify.app)
+### 03 · WhatsApp CRM & AI Automation
 
-### AI / Open-Source Work
+A business automation project focused on connecting WhatsApp communication with CRM-style workflows and AI-powered customer interactions.
 
-Contributed to **Mistral Vibe**, an open-source coding assistant, with changes around project-level `AGENT.md` conventions and terminal clear-screen behavior.
+**Node.js · APIs · AI · WhatsApp · Automation**
 
-→ [Mistral Vibe](https://github.com/mistralai/mistral-vibe)
+<a href="https://github.com/sulmanfarooqq/wacrm_evolution">View Repository →</a>
 
-## Live Applications
+### 04 · Hassan Home Maids
 
-| Project | Live URL |
-|---|---|
-| FlowVello | https://flowvello.com |
-| FlowVello Dashboard | https://dashboard.flowvello.com |
-| Personal Portfolio | https://sulmanfarooq.netlify.app |
-| GPA Checker | https://mustgpa.netlify.app |
-| Hassan Home Maids | https://hassan-maid.netlify.app |
-| Backend Project Demo | https://backendprojectt.netlify.app |
-| Marketing Studio | https://marketing-studio.netlify.app |
-| Project Depot | https://project-depot.netlify.app |
+A deployed home-services application combining a customer-facing website with server-side functionality, transactional email, AI chatbot support, maps, and responsive UI.
 
-## Engineering Approach
+**Node.js · Express.js · EJS · Netlify Functions · Resend · Gemini**
+
+<a href="https://github.com/sulmanfarooqq/hassan-maid">Code →</a> · <a href="https://hassan-maid.netlify.app">Live Demo →</a>
+
+### 05 · AI / Machine Learning Projects
+
+Applied machine-learning work including a custom TF-IDF + Softmax sentiment classifier, graph pathfinding algorithms, and a computer-vision detection pipeline.
+
+**Macro F1: 0.843 · A* Pathfinding · Computer Vision**
+
+<a href="https://github.com/sulmanfarooqq/Progree-internship-B1-645">View Repository →</a>
+
+### 06 · Personal Portfolio
+
+A modern responsive portfolio designed to present software engineering work, projects, technical skills, and live applications.
+
+**React · Vite · Tailwind CSS · Framer Motion · Lenis**
+
+<a href="https://github.com/sulmanfarooqq/my-porfolio">Code →</a> · <a href="https://sulmanfarooq.netlify.app">Live Portfolio →</a>
+
+---
+
+## Open Source
+
+Contributed to **Mistral Vibe**, an open-source coding assistant, with work around project-level `AGENT.md` conventions and terminal clear-screen behavior.
+
+<a href="https://github.com/mistralai/mistral-vibe">View Mistral Vibe →</a>
+
+---
+
+## Live Work
+
+- <a href="https://flowvello.com">FlowVello</a> — Software & AI automation solutions
+- <a href="https://dashboard.flowvello.com">FlowVello Dashboard</a> — Business dashboard
+- <a href="https://sulmanfarooq.netlify.app">Personal Portfolio</a> — Portfolio & selected work
+- <a href="https://hassan-maid.netlify.app">Hassan Home Maids</a> — Deployed business application
+- <a href="https://mustgpa.netlify.app">GPA Checker</a> — Web application
+
+---
+
+## Engineering Principles
 
 ```text
 Understand the problem
         ↓
-Design the simplest reliable system
+Design a simple, reliable solution
         ↓
-Build APIs, business logic & integrations
+Build APIs + business logic + integrations
         ↓
-Test the important paths
+Test critical paths
         ↓
 Deploy
         ↓
-Monitor and improve
+Monitor, improve, and maintain
 ```
 
-I prioritize **maintainability, reliability, security, useful automation, and measurable outcomes** over unnecessary complexity.
-
-## Open Source
-
-- **Mistral Vibe:** contributed to project-level agent conventions and terminal UX improvements.
-- **Community-oriented work:** building and documenting practical backend, AI, automation, and software-engineering projects.
-
-## Currently Building
-
-- AI agents for business workflows
-- WhatsApp and communication automation
-- Backend and API systems
-- SaaS and internal business tools
-- AI-assisted software development workflows
-- Production-ready applications with .NET, Node.js, Python, and modern cloud tooling
-
-## Contact
-
-**FlowVello:** https://flowvello.com  
-**Portfolio:** https://sulmanfarooq.netlify.app  
-**LinkedIn:** https://www.linkedin.com/in/sulmanfarooqq/
+I care about **clean architecture, maintainability, security, reliability, and useful automation**. I prefer solving the actual problem over adding unnecessary complexity.
 
 ---
 
-<p align="center"><strong>Build useful software. Automate what should not be manual. Ship reliably.</strong></p>
+## Currently Focused On
+
+- Backend engineering with **Node.js and .NET**
+- Production-grade REST APIs and database systems
+- AI agents and business workflow automation
+- WhatsApp and email automation
+- SaaS and internal business applications
+- AI-assisted software engineering workflows
+
+---
+
+## Open to Opportunities
+
+I’m interested in **Software Engineering, Backend Engineering, API Development, AI Automation, and full-stack product opportunities**.
+
+**Portfolio:** <a href="https://sulmanfarooq.netlify.app">sulmanfarooq.netlify.app</a>  
+**LinkedIn:** <a href="https://www.linkedin.com/in/sulmanfarooqq/">linkedin.com/in/sulmanfarooqq</a>  
+**FlowVello:** <a href="https://flowvello.com">flowvello.com</a>
+
+<div align="center">
+
+### Build · Automate · Ship
+
+</div>
